@@ -9,8 +9,18 @@ Text here. I want it to be *italic* or **bolded**
 - more things
   + sublist 
   
-1. Numbered list
-2. of things
+1. “Strive not to be a success, but rather to be of value.”
+
+– Albert Einstein
+
+2. https://pakwired.com/100-best-quotes-time/
+
+|**1301**|**2401|
+|--------|------|
+|*Sociology*|*Data Science*|
+|Claude Rubinson|Katherine Shoemaker|
+
+
 
 [link to google](www.google.com)
 
